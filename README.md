@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+toy_app is an application developed in rails demonstrating the scaffold feature of rails.
 
-Things you may want to cover:
+Users are able to be created, edited and destroyed via access to the user's database.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Each user can create, edit and destroy new posts, similar to a very, very primitive Twitter system.
